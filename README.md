@@ -64,3 +64,42 @@ SecureBridge/
 ├── app.json           # Application config & metadata
 ├── package.json       # Project dependencies and scripts
 └── tsconfig.json      # TypeScript configuration
+```
+Quick Start
+1. Clone the repository
+Bash
+
+git clone https://github.com/ajayxuns/SecureBridge.git
+cd SecureBridge
+
+2. Install dependencies
+Bash
+
+npm install
+
+3. Start development server
+Bash
+
+npm run dev
+# or for mobile/expo-based setups:
+npm start
+
+🤝 Contributing
+
+Contributions make the open-source community an incredible place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+    Fork the Project
+
+    Create your Feature Branch (git checkout -b feat/NewFeature)
+
+    Commit your Changes (git commit -m 'feat: Add some NewFeature')
+
+    Push to the Branch (git push origin feat/NewFeature)
+
+    Open a Pull Request
+
+👤 Author
+
+Ajay Bankar
+
+    GitHub: @ajayxuns
